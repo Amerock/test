@@ -15,7 +15,7 @@
 * Project Management
 
 ## Conclusion 
-[x] c'est super
-[ ] c'est nul
+- [x] c'est super
+- [ ] c'est nul
 
 
